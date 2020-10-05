@@ -4,8 +4,8 @@ and detailed info in second activity.
 
 api from: https://min-api.cryptocompare.com/
 
-![coin1](https://user-images.githubusercontent.com/63956057/93108450-9e721e00-f6d4-11ea-962c-41232b59968a.PNG)
-![coin2](https://user-images.githubusercontent.com/63956057/93108497-ad58d080-f6d4-11ea-9fac-210397fcdfaf.PNG)
+![src1](https://user-images.githubusercontent.com/63956057/95109787-e37ef280-075e-11eb-9028-12ada644c904.PNG)
+![src2](https://user-images.githubusercontent.com/63956057/95109849-f5609580-075e-11eb-88ed-7f7024ab9c93.PNG)
 
 
 Credits: made by following tutorial of Andrey Sumin

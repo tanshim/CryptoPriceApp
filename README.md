@@ -1,5 +1,5 @@
 # CryptoPriceApp
-App that shows 10 latest popular crypto currincies with real-time updated price in USD
+App that shows 10 latest popular crypto currencies with real-time updated price in USD
 and detailed info in second activity.
 
 api from: https://min-api.cryptocompare.com/

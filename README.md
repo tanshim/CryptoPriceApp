@@ -8,4 +8,4 @@ api from: https://min-api.cryptocompare.com/
 ![src2](https://user-images.githubusercontent.com/63956057/95109849-f5609580-075e-11eb-88ed-7f7024ab9c93.PNG)
 
 
-Credits: made by following tutorial of Andrey Sumin
+
